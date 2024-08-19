@@ -1,4 +1,4 @@
-[](https://res.cloudinary.com/bx1/image/fetch/f_auto,q_auto/https://cyber-security.tk/img/blog/Silver.png)
+![](https://res.cloudinary.com/bx1/image/fetch/f_auto,q_auto/https://cyber-security.tk/img/blog/Silver.png)
 # Sliver Cheat Sheet
 Sliver is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary. Sliver server and client support MacOS, Windows, and Linux. Implants are supported on MacOS, Windows, and Linux.
 
