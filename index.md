@@ -984,7 +984,6 @@ accesschk.exe -uwcqv "Todos" * /accepteula ::Spanish version
 - [rastamouse](https://rastamouse.me/tags/laps/)
 - [0xsp](https://0xsp.com/offensive/active-directory-attack-defense)
 - [hacktricks](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation)
-- https://docs.microsoft.com/en-us/previous-versions/mt227395(v=msdn.10)?redirectedfrom=MSDN
 - [Wagging the Dog](https://eladshamir.com/2019/01/28/Wagging-the-Dog.html)
 - [MS Protocol Examples](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/03dbd1c5-6617-4276-97ff-d24db65d8154)
 - [MS Kerberos Protocol Extensions](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/3bff5864-8135-400e-bdd9-33b552051d94)
