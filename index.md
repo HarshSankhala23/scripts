@@ -204,12 +204,12 @@ Trusts provide a mechanism for users to gain access to resources in a different 
 | Object | Description |
 |:--------------|:----------|
 | User | Enables network resource for an user |
-| InetOrgPerson | <ul><li>Similar to an user account</li><li>Used for compatibility with other directory services</li></ul> |
-| Contacts | <ul><li>Used primarily to assign e-mail addresses to external users</li><li>Does not enable network access</li></ul> |
-| Groups | <ul><li>Used to simplify the administration of access control</li></ul> |
-| Computers | <ul><li>Enables authentication and auditing of computer access to resources</li></ul> |
-| Printers | <ul><li>Used to simplify the process of locating and connecting to printers</li></ul> |
-| Shared folders | <ul><li>Enables users to search for shared folders based on properties</li></ul> |
+| InetOrgPerson | Similar to an user account , Used for compatibility with other directory services |
+| Contacts | Used primarily to assign e-mail addresses to external users , Does not enable network access |
+| Groups | Used to simplify the administration of access control |
+| Computers | Enables authentication and auditing of computer access to resources |
+| Printers | Used to simplify the process of locating and connecting to printers |
+| Shared folders | Enables users to search for shared folders based on properties |
 
 #### Groups
 A group is a set of user accounts and computers, contacts and other groups that can be managed as a one unit.
