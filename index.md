@@ -148,8 +148,8 @@ All that begins to an AD Domain it's stored as an object:
 
 | Object Types | Function | Example |
 |:--------------|:----------|:---------|
-| Class Object | What objects can be created in the directory | <ul><li>User</li><li>Computer</li></ul> |
-| Attribute Object | Information that can be attached to an object | <ul><li>Display name</li></ul> |
+| Class Object | What objects can be created in the directory | User , Computer |
+| Attribute Object | Information that can be attached to an object | Display name |
 
 ### Domain
 Domains are used to group and manage objects in an organization.
@@ -203,7 +203,7 @@ Trusts provide a mechanism for users to gain access to resources in a different 
 
 | Object | Description |
 |:--------------|:----------|
-| User | <ul><li>Enables network resource for an user</li></ul> |
+| User | Enables network resource for an user |
 | InetOrgPerson | <ul><li>Similar to an user account</li><li>Used for compatibility with other directory services</li></ul> |
 | Contacts | <ul><li>Used primarily to assign e-mail addresses to external users</li><li>Does not enable network access</li></ul> |
 | Groups | <ul><li>Used to simplify the administration of access control</li></ul> |
