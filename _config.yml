@@ -2,14 +2,14 @@
 title: "Sliver C2"
 bye_message: "*ss*"
 baseurl: "/scripts/"
-url: "https://Rajchowdhury420.github.io"
-disqus: Rajchowdhury420
+url: "https://HarshSankhala23.github.io"
+disqus: HarshSankhala23
 
 # Header settings
-Raj: "Rajchowdhury420"
+Raj: "HarshSankhala23"
 source_code:
     server: "github.com"
-    Raj: "RajChowdhury420"
+    Raj: "HarshSankhala23"
 
 # Build settings
 markdown: kramdown
